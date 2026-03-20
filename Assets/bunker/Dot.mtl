@@ -1,0 +1,55 @@
+# Blender MTL File: 'Dotblend.blend'
+# Material Count: 4
+
+newmtl Материал
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump DotMaterial_Normal.png
+map_Kd DotMaterial_Base.png
+map_Ns DotMaterial_Roughness.png
+
+newmtl Материал.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump DoorMaterial_Normal (1).png
+map_Kd DoorMaterial_Base_Color.png
+map_Ns DoorMaterial_Roughness.png
+refl DoorMaterial_Metallic.png
+
+newmtl Материал.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump LessMaterial_Normal.png
+map_Kd LessMaterial_Base_Color (1).png
+map_Ns LessMaterial_Roughness (1).png
+
+newmtl Материал.004
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 3.000000 MeshMaterial_Normal_1.png
+map_Kd MeshMaterial_Base_Color.png
+map_Ns MeshMaterial_Roughness.png
